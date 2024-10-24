@@ -1,8 +1,9 @@
 {
   "name": "eth-bundle",
   "version": "1.0.0",
-  "description": "create a new account and send a useroperation.",
+  "description": "eth-bundle",
   "main": "dist/index.js",
+  "author": "pronin",
   "scripts": {
     "start": "npx ts-node index.ts",
     "build": "rimraf dist && tsc",
